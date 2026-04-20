@@ -180,4 +180,3 @@ Top 10 suppliers by gross spend. Supplier type concentration donut. Monthly spen
 Data: [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
 
 Code: MIT
-```
