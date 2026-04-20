@@ -1,7 +1,43 @@
+# Python virtual environment
 venv/
+env/
+.env
+
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter checkpoints
 .ipynb_checkpoints/
-data/raw/        # raw files can be large; exclude from git
+*.ipynb_checkpoints
+
+# Raw data files (large — downloadable via script)
+data/raw/
+*.csv
 *.xlsx
 *.xls
+
+# SQLite database (large binary — rebuilt via pipeline)
+*.db
+*.sqlite
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+etl/etl_run.log
+
+# Power BI temp files
+*.pbix.bak
