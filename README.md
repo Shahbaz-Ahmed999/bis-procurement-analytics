@@ -171,7 +171,7 @@ Top 10 suppliers by gross spend. Supplier type concentration donut. Monthly spen
 
 **Shahbaz Ahmed**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/shahbaz-ahmed-0s)
 
 ---
 
